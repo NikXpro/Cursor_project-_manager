@@ -2,6 +2,8 @@
 
 Cursor Project Manager is a PyQt5-based desktop application that helps you organize and manage your coding projects and folders. It provides an intuitive graphical interface for adding, editing, and deleting projects and folders, as well as a tree view for easy navigation.
 
+![image](https://github.com/user-attachments/assets/a013e4f5-c072-43fb-94b0-a267cc6b4dc9)
+
 ## Features
 
 - Add and manage coding projects with associated file paths
